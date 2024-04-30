@@ -1,0 +1,77 @@
+.Rectangle1 {
+    width: 1750px;
+    height: 1359px;
+    background: black;
+}
+
+.Rectangle2 {
+    width: 1750px;
+    height: 134px;
+    background: #55DC26;
+}
+
+.Gamechat {
+    width: 549px;
+    height: 62px;
+    color: black;
+    font-size: 70px;
+    font-family: 'Chakra Petch';
+    font-style: italic;
+    font-weight: 700;
+    word-wrap: break-word;
+    background: black;
+}
+
+.Image3, .Image5 {
+    width: 120px;
+    height: 120px;
+}
+
+.Image4 {
+    width: 154.82px;
+    height: 120px;
+}
+
+.Polygon1 {
+    width: 557px;
+    height: 134px;
+    background: black;
+}
+
+.Rectangle3 {
+    width: 513px;
+    height: 1223.50px;
+    background: #262626;
+}
+
+.Image6 {
+    width: 90px;
+    height: 90px;
+    border-radius: 112.50px;
+}
+
+.SeuLogin, .NVel0, .MarvelSSpiderMan, .Minecraft, .BendyAndTheInkMachine, .FiveNightSAtFreddys, .GrandTheftAutoV, .GodOfWar, .Cuphead, .ResidentEvil4, .PokMonViolet, .HonkaiStarRail, .PokMonLetSGoPikachu, .Uncharted4AThiefSEnd, .ChatDeJogos, .ConfiguraEs, .LogIn, .Amigos, .Ajuda {
+    font-family: 'Chakra Petch';
+    font-size: 30px;
+    font-weight: 600;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.Line1 {
+    width: 513px;
+    height: 0px;
+    border: 4px solid #55DC26;
+}
+
+.Rectangle4 {
+    width: 248px;
+    height: 256px;
+    background: #55DC26;
+}
+
+.Rectangle5 {
+    width: 513px;
+    height: 143px;
+    background: #403F3F;
+}
